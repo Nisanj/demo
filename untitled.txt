@@ -1,0 +1,2 @@
+Logistic Regression : Best: 0.829412 using {'C': 1.0, 'penalty': 'l2', 'solver': 'newton-cg'}
+knn :0.868347 using {'metric': 'manhattan', 'n_neighbors': 17, 'weights': 'distance'}
